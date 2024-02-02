@@ -1,0 +1,33 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background-repeat: repeat;
+    background-image:url(img/harry-potter.gif);
+    background-blend-mode: lighten;
+}
+table{
+    padding: 0%;
+    font-size: 18px;
+    color: white;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 250px;
+    border-radius: 5px;
+    text-align: center;
+    background-color: #0b092988;
+}
+#child{
+    width:100px;
+
+}
+li{
+    margin-left: 30px;
+    text-align: left;
+   
+}
+#title{
+    background-color: rgba(84, 180, 235, 0.719);
+}
